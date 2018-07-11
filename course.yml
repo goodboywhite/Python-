@@ -1,4 +1,4 @@
-title: Course Title Here
-description: A description of the course.
+title: Python 與資料科學基礎
+description: 如何建立 Python 開發環境與基礎語法
 programming_language: python
 from: python-base-prod:21
